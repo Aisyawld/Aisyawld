@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi, I'm Aisyawld 👋
+
+[![Aisyawld's GitHub stats](https://github-readme-stats.vercel.app/api?username=aisyawld)](https://github.com/aisyawld/github-readme-stats)
 
 <!--
 **Aisyawld/Aisyawld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
